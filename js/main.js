@@ -54,8 +54,7 @@ function game() {
         score += scoreAdder
 
         // Show result
-        alert(result)
-        alert(score)
+        alert(result + "\n" + "Score: " + score)
     }
 }
 
