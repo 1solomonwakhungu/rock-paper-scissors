@@ -1,2 +1,4 @@
-# rock-paper-scissors
-This directory is to create a rock paper scissors site to test Javascript skills
+# Rock Paper Scissors Project
+
+The project uses basic Javascript skills
+to create a simple Rock, Paper, Scissors game. 
